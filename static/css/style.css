@@ -1,0 +1,47 @@
+footer p {
+    text-align: center;
+    background: #3a768f;
+    color: #fff;
+    padding: 10px;
+}
+.header {
+    background: rgba(58,118,143,.9) !important;
+    margin-bottom: 0 !important;
+    color: #fff;
+}
+.content_block{
+    min-height: 500px;
+    text-align: center;
+}
+.brand a{
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bold;
+}
+.thead-dark {
+    background: black !important;
+    text-align: center;
+    color: #ffffff;
+}
+.thead-dark th{
+    background: black !important;
+    text-align: center;
+    color: #ffffff;
+}
+table{
+    max-width: 600px;
+    margin: 30px auto;
+}
+.simFormContainer{
+    text-align: center;
+    width: 300px;
+    margin: 20px auto 30px;
+}
+.findRecommendedMovieContainer{
+    text-align: center;
+    width: 500px;
+    margin: 20px auto 30px;
+}
+.simFormContainer.itemsbased{
+    width: 350px;
+}

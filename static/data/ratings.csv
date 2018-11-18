@@ -1,0 +1,36 @@
+UserID;Movie;Rating
+1;"Lady in the Water";2.5
+1;"Snakes on a Plane";3.5
+1;"Just My Luck";3.0
+1;"Superman Returns";3.5
+1;"You, Me and Dupree";2.5
+1;"The Night Listener";3.0
+2;"Lady in the Water";3.0
+2;"Snakes on a Plane";3.5
+2;"Just My Luck";1.5
+2;"Superman Returns";5.0
+2;"The Night Listener";3.0
+2;"You, Me and Dupree";3.5
+3;"Lady in the Water";2.5
+3;"Snakes on a Plane";3.0
+3;"Superman Returns";3.5
+3;"The Night Listener";4.0
+4;"Snakes on a Plane";3.5
+4;"Just My Luck";3.0
+4;"The Night Listener";4.5
+4;"Superman Returns";4.0
+4;"You, Me and Dupree";2.5
+5;"Lady in the Water";3.0
+5;"Snakes on a Plane";4.0
+5;"Just My Luck";2.0
+5;"Superman Returns";3.0
+5;"The Night Listener";3.0
+5;"You, Me and Dupree";2.0
+6;"Lady in the Water";3.0
+6;"Snakes on a Plane";4.0
+6;"The Night Listener";3.0
+6;"Superman Returns";5.0
+6;"You, Me and Dupree";3.5
+7;"Snakes on a Plane";4.5
+7;"You, Me and Dupree";1.0
+7;"Superman Returns";4.0

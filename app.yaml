@@ -1,0 +1,25 @@
+runtime: python27
+api_version: 1
+threadsafe: true
+handlers:
+- url: /static
+  static_dir: static
+- url: /.*
+  script: main.app
+
+libraries:
+  - name: ssl
+    version: latest
+
+
+swagger: "2.0"
+info:
+   description: This is the swagger file that goes with our server code
+   version: "1.0.0"
+   title: Swagger REST Article
+consumes:
+   - "application/json"
+produces:
+   - "application/json"
+
+basePath: "/api"
